@@ -4,7 +4,7 @@
 ### Created by [Wojciech Reducha](wojciech.reducha@nordea.com)
 
 ## Usage instructions
-- Go to [Confluence Page](https://confluence.itcm.oneadr.net/display/PL/Improving+JIRA+project+flow+with+ScriptRunner) for details how to use scripts in this repository
+- Go to attached script for details how to use scripts in this repository
 	- This page also contains various hints about ScriptRunner's quirks
 - This repository contains script examples with commentaries
 - Executing these scripts from this repository won't work - they need to be copied to proper places in JIRA configuration
